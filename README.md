@@ -1,2 +1,2 @@
-# hello-worl
+# Shiny Thing
 midigitalsolution repository
